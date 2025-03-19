@@ -1,16 +1,16 @@
-# Sentiment Analysis Research Papers Reference
+# Referensi Penelitian 
 
-### Machine Learning Models
-| Paper Title | Link | Best Model Accuracy | Additional Notes |
+### Model ML
+| Link | Akurasi Model Terbaik | Nama Model Terbaik | Catatan |
 |------------|------|---------------------|------------------|
 | - | - | - | - |
 
-### Deep Learning Models (Keras)
-| Paper Title | Link | Best Model Accuracy | Additional Notes |
+### Model DL Buat di Keras
+| Link | Akurasi Model Terbaik |  Nama Model Terbaik |Catatan |
 |------------|------|---------------------|------------------|
 | - | - | - | - |
 
-### Deep Learning Models (PyTorch)
-| Paper Title | Link | Best Model Accuracy | Additional Notes |
+### Model DL Buat di PyTorch
+| Link | Akurasi Model Terbaik |  Nama Model Terbaik |Catatan |
 |------------|------|---------------------|------------------|
 | - | - | - | - |
